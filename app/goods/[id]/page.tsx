@@ -19,7 +19,7 @@ interface GoodsPageProps {
 }
 
 const Good = ({ params }: GoodsPageProps) => {
-  const { id } = params;
+  // const { id } = params;
   return (
     <div className={styles.mainContainer}>
       <h2 className={styles.goodName}>

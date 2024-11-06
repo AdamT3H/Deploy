@@ -1,5 +1,4 @@
 import { RiHeartLine, RiEyeLine } from "@remixicon/react";
-import AddToCartButton from "../components/addToCart/AddToCartButton";
 
 interface Product {
   name: string;

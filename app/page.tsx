@@ -17,12 +17,11 @@ function Home() {
       <Line />
       <Categories />
       <Line />
-      {/* <BestSellProducts /> */}
+      <BestSellProducts /> 
       <Line />
       <ExploreOurProducts />
       <Line />
       <NewArrival />
-
       <NewArrivalItems />
       <Features />
       <ViewAllButton />
