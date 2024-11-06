@@ -6,7 +6,7 @@ import ProductCard from "./productCard";
 export default function BestSellProducts() {
   const products = [
     {
-      imgSrc: "./assets/coat.png",
+      imgSrc: "/assets/coat.png",
       name: "The north coat",
       price: 260,
       oldPrice: 360,
@@ -14,7 +14,7 @@ export default function BestSellProducts() {
       reviews: 14,
     },
     {
-      imgSrc: "./assets/bag.png",
+      imgSrc: "/assets/bag.png",
       name: "Gucci duffle bag",
       price: 910,
       oldPrice: 1160,
@@ -22,7 +22,7 @@ export default function BestSellProducts() {
       reviews: 55,
     },
     {
-      imgSrc: "./assets/cooler.png",
+      imgSrc: "/assets/cooler.png",
       name: "RGB liquid CPU Cooler",
       price: 160,
       oldPrice: 170,
@@ -30,7 +30,7 @@ export default function BestSellProducts() {
       reviews: 10,
     },
     {
-      imgSrc: "./assets/shell.png",
+      imgSrc: "/assets/shell.png",
       name: "Small BookShell",
       price: 360,
       oldPrice: 520,
