@@ -1,9 +1,9 @@
 "use client";
 
 import React, { useEffect, useState } from "react";
-import styles from "./flashSale.module.css";
+import styles from "./FlashSale.module.css";
 import Image from "next/image";
-import Rectangle from "../../../public/images/upperblockRectangle.png";
+import Rectangle from "../../../public/images/upperblockRectangle.png"
 import LeftArrow from "../../../public/images/Fill With Left Arrow.png";
 import RightArrow from "../../../public/images/Fill with Right Arrow.png";
 import newLeftArrow from "../../../public/images/new_arrow_left.png";
