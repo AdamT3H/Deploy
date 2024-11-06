@@ -18,7 +18,7 @@ interface GoodsPageProps {
   };
 }
 
-const Good = ({ params }: GoodsPageProps) => {
+const Good = ({ /*params*/ }: GoodsPageProps) => {
   // const { id } = params;
   return (
     <div className={styles.mainContainer}>
